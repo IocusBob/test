@@ -1,1 +1,1 @@
-This is for testing purposes
+This is the readme file, please read it.
