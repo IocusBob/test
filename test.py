@@ -1,3 +1,6 @@
 import random
 
-print(random.randint(2,5))
+def genRandomNum():
+    return randomrandint(1,5)
+
+print(getRandomNum())
